@@ -1,4 +1,4 @@
-var tela = 10;
+var tela = 1;
 var questão = 1;
 var xjogador =10;
 var yjogador = 10;
